@@ -1,7 +1,8 @@
 <!doctype html>
-<html>
-    <head>    
-        
+<html lang="fr-FR">
+
+    <head>
+
         <title>
             {{ .Title }}
         </title>
@@ -12,10 +13,10 @@
         <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | resources.ExecuteAsTemplate "assets/css/main.css" . | resources.ToCSS (dict "outputStyle" "nested" "precision" 10)).Permalink }}">
         <link rel="icon" type="image/png" href="{{ "images/favicon.png" | relURL }}">
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-        
+
     </head>
     <body>
-        
+
         {{ if eq .File.LogicalName "_index.md" }}
                 <div class="header-wrapper">
                     <div class="header-wrapper__overlay">
@@ -29,9 +30,9 @@
                 {{ $include_dict := dict "page" . "Site" .Site }}
                 {{ partial "header.html" $include_dict }}
             {{ end }}
-        
+
             {{ block "content" . }}{{ end }}
-        
+
             {{ $include_dict := dict "page" . "Site" .Site }}
             {{ partial "footer.html" $include_dict }}
         <script src="{{ "js/main.js" | relURL }}"></script>
@@ -46,11 +47,11 @@
                     {{ `{{ $localize('actions.continue_shopping') }}` }}
                   </span>
                 </close-cart-action>
-        
+
                 <h3 class="snipcart-cart-header__title snipcart__font--black snipcart__font--secondary" v-if="title">
                   <img src="{{ .Site.Params.logos.dark.optimized | relURL }}" alt="">
                 </h3>
-        
+
                 <div class="snipcart-cart-header__count snipcart__font--secondary snipcart__font--bold">
                   <icon name="cart" class="snipcart-cart-header__icon snipcart__icon--blue-dark"></icon>
                   {{ `{{ itemsCount }}` }}
@@ -77,9 +78,9 @@
                       {{ `{{ $localize('actions.continue_shopping') }}` }}
                     </span>
                   </close-cart-action>
-        
+
                   <img src="{{ .Site.Params.logos.dark.optimized | relURL }}" alt="" class="snipcart-modal__logo">
-        
+
                   <div class="snipcart-modal__header-summary">
                     <div
                       class="snipcart-modal__header-summary-title snipcart__font--large snipcart__font--secondary snipcart__font--bold"
@@ -99,5 +100,5 @@
             </div>
           </checkout>
         </div>
-    </body> 
+    </body>
 </html>
