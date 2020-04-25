@@ -21,7 +21,7 @@ params:
         active: "#88DD9B"
         light_grey: "#6B797A"
         dark_grey: "#273132"
-        bg_image_secondary_fallback: /images/leaf-light-grey.svg
+        bg_image_secondary_fallback: /images/leaf-light-grey.png
         bg_image_primary_optimized: /images/header.webp
         active_medium: "#5C9174"
         active_dark: "#547567"
