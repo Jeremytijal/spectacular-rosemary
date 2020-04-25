@@ -25,7 +25,7 @@ params:
         bg_image_primary_optimized: /images/header.webp
         active_medium: "#5C9174"
         active_dark: "#547567"
-        bg_image_product_fallback: /images/leaf.svg
+        bg_image_product_fallback: /images/leaf.png
         medium: "#6B797A"
         light: "#F0F0F0"
         dark: "#384647"
