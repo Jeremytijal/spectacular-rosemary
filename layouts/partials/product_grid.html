@@ -14,7 +14,7 @@
             <div class="product-grid__definition">
                 <a href="{{ $product_page.URL }}"><h3 class="product-grid__title">{{ $product_page.Title }}</h3></a>
                 <span class="product-grid__category"> {{ $product_page.Params.category }} </span>
-                <span class="product-grid__price"> ${{ $product_page.Params.price }} </span>
+                <span class="product-grid__price"> {{ $product_page.Params.price }} € </span>
             </div>
         </li>
     {{ end }}
