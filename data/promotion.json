@@ -1,12 +1,12 @@
 {
-    "title": "Un nouvel intérieur pour l'été",
-    "subtitle": "fà partir de 149.99 €",
-    "image": {
-        "optimized": "images/promo.webp",
-        "fallback": "images/promo.jpg"
-    },
-    "cta": {
-        "text": "Discover",
-        "link": "/store"
-    }
+  "title": "Un nouvel intérieur pour l'été",
+  "subtitle": "À partir de 149.99 €",
+  "image": {
+    "optimized": "images/promo.webp",
+    "fallback": "images/promo.jpg"
+  },
+  "cta": {
+    "text": "Découvrir",
+    "link": "/store"
+  }
 }
