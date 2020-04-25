@@ -11,6 +11,7 @@
         <link rel="stylesheet" href="{{ .Site.Params.snipcart_css }}" />
         <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | resources.ExecuteAsTemplate "assets/css/main.css" . | resources.ToCSS (dict "outputStyle" "nested" "precision" 10)).Permalink }}">
         <link rel="icon" type="image/png" href="{{ "images/favicon.png" | relURL }}">
+        <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
         
     </head>
     <body>
