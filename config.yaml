@@ -16,7 +16,7 @@ params:
     default:
       sass:
         default: "#FFFFFF"
-        bg_image_cart_fallback: /images/header.jpg
+        bg_image_cart_fallback: /images/cart-bg.png
         bg_image_cart_optimized: /images/cart-bg.webp
         active: "#88DD9B"
         light_grey: "#6B797A"
