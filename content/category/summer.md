@@ -1,6 +1,6 @@
 ---
 slug: summer
-title: Summer plants
+title: Plantes d'Été
 section: Store
 menu:
   categories:

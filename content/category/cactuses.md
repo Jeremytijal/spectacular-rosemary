@@ -1,6 +1,6 @@
 ---
-slug: cactuses
-title: Cactuses
+slug: roses
+title: Roses
 section: Store
 menu:
   categories:

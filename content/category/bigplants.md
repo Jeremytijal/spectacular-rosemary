@@ -1,6 +1,6 @@
 ---
-slug: bigplants
-title: Big plants
+slug: bouquets
+title: Bouquets
 section: Store
 menu:
   categories:

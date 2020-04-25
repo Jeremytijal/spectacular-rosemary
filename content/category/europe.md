@@ -1,6 +1,6 @@
 ---
 slug: europe
-title: Plants from Europe
+title: Fleurs d'Europe
 section: Store
 menu:
   categories:

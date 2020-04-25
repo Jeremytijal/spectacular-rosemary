@@ -1,33 +1,18 @@
 ---
-title: About
-headline: We are Planty
+title: A Propos
+headline: Nous sommes Planty
 introduction: >-
-  Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of geeks
-  from Québec City. Planty is a theme we built for
-  [Stackbit](https://www.stackbit.com/), a killer JAMstack site-builder. To
-  enable e-commerce on Planty, you’ll need to [sign up for
-  Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
-  required.
+  En faite pas vraiment. Nous sommes [Netary](https://netary.fr)—des développeurs de Paris. Planty est un thème créé pour les fleuriste et commerçant qui souhaitent ouvrir leur boutique en ligne rapidement et facilement.
 bulletpoints:
-  - title: We love plants
+  - title: Nous aimons les plantes
     description: >-
-      Now THAT is true, but we love web development even more. We talk about it
-      on our blog, like, [a lot](http://bit.ly/2YA6999). We often craft live
-      demos and open source these bad boys [on
-      GitHub](https://github.com/snipcart). Matter of fact, this Planty theme
-      [is open source too](https://github.com/snipcart/stackbit-theme-planty)!
-      If you spot any bugs, open an issue, and we’ll fire our junior dev. Just
-      kidding Michael, you’re good.
+      Cela est vrai, mais nous aimons encore plus le développement Web. On en parle sur notre blog, comme d'autres sujets, [Blog] (https://netary.fr/blog). Nous aidons les TPE/PME à développer leur présence en ligne.
     image:
       optimized: images/nan_talk.webp
       fallback: images/nan_talk.jpg
-  - title: We think plants are the future
+  - title: Nous pensons que les plantes sont le futur
     description: >-
-      Word. But good **code** _can_ solve a lots of problems, too. New _and_
-      old. That’s why we help beginners get started with web development through
-      free content and tools, like this theme. We also believe [the
-      JAMstack](https://jamstack.org/) might be one solid pillar on which we
-      build that future.
+      Evidemment. Mais un bon code peut également résoudre de nombreux problèmes. C'est pourquoi nous aidons les entreprises à se lancer sur le Web grâce à du contenu et des outils. Nous pensons également que la JAMstack pourrait être un pilier solide sur lequel nous bâtissons cet avenir.
     image:
       optimized: images/team.webp
       fallback: images/team.jpg

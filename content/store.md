@@ -1,5 +1,5 @@
 ---
-title: Store
+title: Boutique
 menu:
   main:
     weight: 1
