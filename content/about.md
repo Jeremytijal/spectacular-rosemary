@@ -1,12 +1,12 @@
 ---
-title: A Propos
+title: À Propos
 headline: Nous sommes Planty
 introduction: >-
   En faite pas vraiment. Nous sommes [Netary](https://netary.fr)—des développeurs de Paris. Planty est un thème créé pour les fleuriste et commerçant qui souhaitent ouvrir leur boutique en ligne rapidement et facilement.
 bulletpoints:
   - title: Nous aimons les plantes
     description: >-
-      Cela est vrai, mais nous aimons encore plus le développement Web. On en parle sur notre blog, comme d'autres sujets, [Blog] (https://netary.fr/blog). Nous aidons les TPE/PME à développer leur présence en ligne.
+      Cela est vrai, mais nous aimons encore plus le développement Web. On en parle sur notre blog, comme d'autres sujets, [Notre Blog] (https://netary.fr/blog). Nous aidons les TPE/PME à développer leur présence en ligne.
     image:
       optimized: images/nan_talk.webp
       fallback: images/nan_talk.jpg

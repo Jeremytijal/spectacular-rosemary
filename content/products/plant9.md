@@ -18,7 +18,7 @@ images:
     original:
       optimized: /images/plant9-featured-lg.webp
       fallback: /images/plant9-featured-lg.jpg
-category: cactuses
+category: cactus
 featured: true
 section: Store
 layout: product

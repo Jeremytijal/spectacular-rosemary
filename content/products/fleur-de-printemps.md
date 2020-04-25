@@ -14,7 +14,7 @@ images:
       fallback: /images/parc_005.jpg
     original:
       fallback: /images/parc_005.jpg
-category: summer
+category: plantes d'été
 section: Store
 layout: product
 ---

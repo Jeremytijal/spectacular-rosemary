@@ -20,7 +20,7 @@ images:
     original:
       optimized: /images/plant5-featured-lg.webp
       fallback: /images/plant5-featured-lg.jpg
-category: bigplants
+category: bouquets
 featured: true
 section: Store
 layout: product
