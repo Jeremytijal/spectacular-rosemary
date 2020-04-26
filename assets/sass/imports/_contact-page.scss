@@ -89,13 +89,13 @@
 .contact-form {
   .form-row {
     margin-bottom: 0.83333em;
-    width: 800px;
+    width: 70%;
   }
 
   label {
     display: block;
     padding-bottom: 0.25em;
-    width: 800px;
+
   }
 
   .form-submit {
@@ -175,6 +175,7 @@ a.button {
   padding: 0.5em 30px;
   -webkit-transition: opacity .15s ease-in-out;
   transition: opacity .15s ease-in-out;
+  margin-bottom: 60px;
 
   &:hover,
   &:focus,
