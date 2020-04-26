@@ -1,11 +1,11 @@
 .contact-page {
-  background-color: #f9f9f9;
+  background-color: $background_images_secondary;
 
   &__section {
     display: flex;
     max-width: 1000px;
     margin-top: -150px;
-    margin-bottom: 300px;
+    margin-bottom: 50px;
     overflow: hidden;
     &:nth-child(odd) {
       flex-direction: row-reverse;
@@ -88,7 +88,7 @@
 
 .contact-form {
   .form-row {
-    margin-bottom: 1em;
+    margin-bottom: 2em;
     width: 800px;
     @include smaller-than-tablet {
       width: auto;
@@ -104,7 +104,7 @@
 
   .form-submit {
     margin-top: 1.66667em;
-    margin-bottom: 5em;
+    margin-bottom: 6em;
   }
 }
 
