@@ -88,11 +88,10 @@
 
 .contact-form {
   .form-row {
-    margin-bottom: 3em;
+    margin-bottom: 5em;
     width: 800px;
     @include smaller-than-tablet {
       min-width: 100%;
-      max-width: 0;
     }
 
   }
@@ -110,7 +109,7 @@
 
 /* Form fields */
 label {
-  color: green;
+  color: $color_active;
   font-weight: bold;
 }
 
@@ -134,7 +133,7 @@ textarea {
   border-radius: 3px;
   box-shadow: none;
   box-sizing: border-box;
-  color: _palette(active);
+  color: $color_active;
   display: inline-block;
   font-size: 16px;
   font-weight: normal;
