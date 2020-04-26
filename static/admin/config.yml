@@ -1037,31 +1037,31 @@ collections:
       field: layout
       value: product
   - name: contact-page
-     label: Contact
-     files:
-       - name: contact-page
-         label: Contact
-         file: content/contact.md
-         fields:
-           - widget: string
-             name: title
-             label: Title
-             required: false
-           - widget: string
-             name: headline
-             label: Headline
-             required: false
-           - widget: markdown
-             name: introduction
-             label: Introduction
-             required: false
-          - widget: hidden
-            name: layout
-            label: Layout
-            required: true
-            default: contact-page
-          - widget: markdown
-            name: body
-            label: Content
+    label: Contact
+    files:
+      - name: contact-page
+        label: Contact
+        file: content/contact.md
+        fields:
+          - widget: string
+            name: title
+            label: Title
             required: false
-            hint: Page content
+          - widget: string
+            name: headline
+            label: Headline
+            required: false
+          - widget: markdown
+            name: introduction
+            label: Introduction
+            required: false
+         - widget: hidden
+           name: layout
+           label: Layout
+           required: true
+           default: contact-page
+         - widget: markdown
+           name: body
+           label: Content
+           required: false
+           hint: Page content
