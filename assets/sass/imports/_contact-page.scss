@@ -88,8 +88,13 @@
 
 .contact-form {
   .form-row {
-    margin-bottom: 0.83333em;
-    width: 70%;
+    margin-bottom: 3em;
+    width: 800px;
+    @include smaller-than-tablet {
+      min-width: 100%;
+      max-width: 0;
+    }
+
   }
 
   label {
