@@ -1,7 +1,7 @@
 {{ define "content" }}
 <main class="content contact-page">
   {{ $include_dict := dict "page" . }}
-  {{ partial "static_header.html" $include_dict }}
+  {{ partial "static_contact.html" $include_dict }}
   <form name="contactForm" method="POST" netlify-honeypot="bot-field" data-netlify="true" action="/merci" id="contact-form"
       class="contact-form">
       <p class="screen-reader-text">
