@@ -1,29 +1,28 @@
 ---
-id: '2'
-title: Integer porta
-description: Suspendisse efficitur eget erat sit amet efficitur.
-price: '99.00'
+id: "2"
+title: Bouquet Kateryna
+description: Création spéciale été
+price: "35"
 images:
   default:
     thumbnail:
-      optimized: /images/plant2.webp
-      fallback: /images/plant2.jpg
+      optimized: /images/bouquet-kateryna.jpg
+      fallback: /images/bouquet-kateryna.jpg
     original:
-      optimized: /images/plant2-lg.webp
-      fallback: /images/plant2-lg.jpg
+      optimized: /images/bouquet-kateryna.jpg
+      fallback: /images/bouquet-kateryna.jpg
   featured:
     thumbnail:
-      optimized: /images/plant2-featured.webp
-      fallback: /images/plant2-featured.jpg
+      optimized: /images/bouquet-kateryna.jpg
+      fallback: /images/bouquet-kateryna.jpg
     original:
-      optimized: /images/plant2-featured-lg.webp
-      fallback: /images/plant2-featured-lg.jpg
+      optimized: /images/bouquet-kateryna.jpg
+      fallback: /images/bouquet-kateryna.jpg
 category: cactus
 featured: true
 section: Store
 layout: product
 ---
-
-# Integer porta
+# Bouquet Kateryna
 
 Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus.
