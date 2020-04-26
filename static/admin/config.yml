@@ -939,10 +939,10 @@ collections:
         label: Category
         required: false
         options:
-          - summer
-          - europe
-          - bigplants
-          - cactuses
+          - bouquets saisonniers
+          - plantes
+          - bouquets
+          - roses
       - widget: boolean
         name: featured
         label: Featured
@@ -1121,7 +1121,7 @@ collections:
                     label: Parent Menu Identifier
                     required: false
                     hint: >-
-                      The parent of an entry should be the identifier of another   
+                      The parent of an entry should be the identifier of another
           - widget: hidden
             name: layout
             label: Layout

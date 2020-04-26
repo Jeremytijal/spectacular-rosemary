@@ -1,6 +1,6 @@
 ---
-slug: europe
-title: Fleurs d'Europe
+slug: plantes
+title: Plantes
 section: Store
 menu:
   categories:

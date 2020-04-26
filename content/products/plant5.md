@@ -1,25 +1,24 @@
 ---
 id: '5'
-title: Vestibulum eget
+title: Bouquet Markham
 description: >-
-  Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
-  volutpat massa dolor id purus.
-price: '220.00'
+   Un bouquet haut en couleurs pour rentrer doucement dans le printemps
+price: '39,99'
 images:
   default:
     thumbnail:
-      optimized: /images/plant5.webp
-      fallback: /images/plant5.jpg
+      optimized: /images/bouquet-markham.jpg
+      fallback: /images/bouquet-markham.jpg
     original:
-      optimized: /images/plant5-lg.webp
-      fallback: /images/plant5-lg.jpg
+      optimized: /images/bouquet-markham.jpg
+      fallback: /images/bouquet-markham.jpg
   featured:
     thumbnail:
-      optimized: /images/plant5-featured.webp
-      fallback: /images/plant5-featured.jpg
+      optimized: /images/bouquet-markham.jpg
+      fallback: /images/bouquet-markham.jpg
     original:
-      optimized: /images/plant5-featured-lg.webp
-      fallback: /images/plant5-featured-lg.jpg
+      optimized: /images/bouquet-markham.jpg
+      fallback: /images/bouquet-markham.jpg
 category: bouquets
 featured: true
 section: Store

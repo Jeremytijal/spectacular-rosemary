@@ -18,7 +18,7 @@ images:
     original:
       optimized: /images/bouquet-kateryna.jpg
       fallback: /images/bouquet-kateryna.jpg
-category: cactus
+category: bouquets saisonniers
 featured: true
 section: Store
 layout: product

@@ -1,6 +1,6 @@
 ---
-slug: plantes d'été
-title: Plantes d'Été
+slug: bouquets saisonniers
+title: Bouquets Saisonniers
 section: Store
 menu:
   categories:

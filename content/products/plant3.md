@@ -18,7 +18,7 @@ images:
     original:
       optimized: /images/bouquet-fairy.jpg
       fallback: /images/bouquet-fairy.jpg
-category: bigplants
+category: bouquets saisonniers
 featured: false
 section: Store
 layout: product
