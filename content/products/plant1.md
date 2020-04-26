@@ -1,14 +1,14 @@
 ---
 id: "1"
-title: Nulla suscipit
+title: Bouquet Tulipe
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
   suscipit velit lectus, vitae efficitur quam mollis eget. Integer porta at nisl
   eget tincidunt.
-price: "49.40"
+price: "30"
 images:
   default:
     thumbnail:
-      optimized: /images/plant1.webp
+      optimized: /images/bouquet-tulip.jpg
       fallback: /images/bouquet-tulip.jpg
     original:
       optimized: /images/plant1-lg.webp
