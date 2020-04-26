@@ -7,7 +7,7 @@ images:
   default:
     thumbnail:
       optimized: /images/bouquet-multi-couleur.jpg
-      fallback: /images/bouquet multi couleur.jpg
+      fallback: /images/bouquet-multi-couleur.jpg
     original:
       optimized: /images/bouquet-multi-couleur.jpg
       fallback: /images/bouquet-multi-couleur.jpg
