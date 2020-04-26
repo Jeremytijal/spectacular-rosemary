@@ -123,11 +123,11 @@ input[type="url"],
 select,
 textarea {
   background: #fff;
-  border: 1px solid _palette(border);
+  border: 1px solid _palette(default);
   border-radius: 3px;
   box-shadow: none;
   box-sizing: border-box;
-  color: _palette(primary);
+  color: _palette(active);
   display: inline-block;
   font-size: 16px;
   font-weight: normal;
@@ -161,9 +161,9 @@ input[type="submit"],
 input[type="button"],
 input[type="reset"],
 a.button {
-  background: _palette(accent);
+  background: _palette(active);
   border-radius: 20px;
-  border: 2px solid _palette(accent);
+  border: 2px solid _palette(active);
   box-sizing: border-box;
   color: #fff;
   display: inline-block;
