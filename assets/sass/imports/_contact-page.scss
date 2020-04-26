@@ -91,7 +91,7 @@
     margin-bottom: 5em;
     width: 800px;
     @include smaller-than-tablet {
-      min-width: 100%;
+      min-width: 30%;
     }
 
   }
