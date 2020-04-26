@@ -1036,10 +1036,10 @@ collections:
     filter:
       field: layout
       value: product
-  - name: contact
+  - name: contact-page
      label: Contact
      files:
-       - name: contact
+       - name: contact-page
          label: Contact
          file: content/contact.md
          fields:
