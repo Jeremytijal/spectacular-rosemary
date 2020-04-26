@@ -1055,13 +1055,13 @@ collections:
             name: introduction
             label: Introduction
             required: false
-         - widget: hidden
-           name: layout
-           label: Layout
-           required: true
-           default: contact-page
-         - widget: markdown
-           name: body
-           label: Content
-           required: false
-           hint: Page content
+          - widget: hidden
+            name: layout
+            label: Layout
+            required: true
+            default: contact-page
+          - widget: markdown
+            name: body
+            label: Content
+            required: false
+            hint: Page content
