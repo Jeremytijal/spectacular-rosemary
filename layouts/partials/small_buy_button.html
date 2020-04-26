@@ -1,7 +1,7 @@
 {{ $product_page := .product_page }}
 {{ $component := .component }}
 
-<button class="{{ $component }}__item-buy button button--icon-only snipcart-add-item"
+<button class="{{ $component }}__item-buy small-buttons button--icon-only snipcart-add-item"
     data-item-name="{{ $product_page.Title }}"
     data-item-url="{{ $product_page.URL }}"
     data-item-price="{{ $product_page.Params.price }}"
