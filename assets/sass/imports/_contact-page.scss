@@ -88,10 +88,10 @@
 
 .contact-form {
   .form-row {
-    margin-bottom: 5em;
+    margin-bottom: 1em;
     width: 800px;
     @include smaller-than-tablet {
-      min-width: 30%;
+      width: auto;
     }
 
   }
@@ -104,6 +104,7 @@
 
   .form-submit {
     margin-top: 1.66667em;
+    margin-bottom: 5em;
   }
 }
 
