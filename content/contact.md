@@ -2,7 +2,7 @@
 title: Contact
 headline: Commandez vos bouquets
 introduction: Choisissez vos bouquets de fleurs parmi nos créations puis venez
-  les récupérer dans à notre drive.
+  les récupérer à notre drive.
 menu:
   main:
     name: Contact
