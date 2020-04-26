@@ -1,10 +1,8 @@
 ---
 title: Contact
-headline: Nous sommes Planty
-introduction: En faite pas vraiment. Nous sommes [Netary](https://netary.fr)—des
-  développeurs de Paris. Planty est un thème créé pour les fleuriste et
-  commerçant qui souhaitent ouvrir leur boutique en ligne rapidement et
-  facilement.
+headline: Commandez vos bouquets
+introduction: Choisissez vos bouquets de fleurs parmi nos créations puis venez
+  les récupérer dans à notre drive.
 menu:
   main:
     name: Contact
