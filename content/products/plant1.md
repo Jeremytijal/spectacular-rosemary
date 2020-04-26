@@ -1,26 +1,25 @@
 ---
-id: '1'
+id: "1"
 title: Nulla suscipit
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
-  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
-  tincidunt.
-price: '49.40'
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla
+  suscipit velit lectus, vitae efficitur quam mollis eget. Integer porta at nisl
+  eget tincidunt.
+price: "49.40"
 images:
   default:
     thumbnail:
       optimized: /images/plant1.webp
-      fallback: /images/plant1.jpg
+      fallback: /images/bouquet-tulip.jpg
     original:
       optimized: /images/plant1-lg.webp
-      fallback: /images/plant1-lg.jpg
+      fallback: /images/bouquet-tulip.jpg
   featured:
     thumbnail:
-      optimized: /images/plant1-featured.webp
-      fallback: /images/plant1-featured.jpg
+      optimized: /images/bouquet-tulip.jpg
+      fallback: /images/bouquet-tulip.jpg
     original:
-      optimized: /images/plant1-featured-lg.webp
-      fallback: /images/plant1-featured-lg.jpg
+      optimized: /images/bouquet-tulip.jpg
+      fallback: /images/bouquet-tulip.jpg
 category: bouquets
 featured: true
 section: Store
