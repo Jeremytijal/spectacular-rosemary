@@ -3,7 +3,7 @@ baseURL: /
 params:
   snipcart_js: https://cdn.snipcart.com/themes/v3.0.4/default/snipcart.js
   snipcart_css: https://cdn.snipcart.com/themes/v3.0.4/default/snipcart.css
-  snipcart_api_key: ""
+  snipcart_api_key: ZTQwM2Q1MzEtMjZjNS00YzQ1LWJjMmItMjJjNzg0ZjE5YzM3NjM3MjM0MDk4MDk5MTA1ODQx
   logos:
     light:
       optimized: images/logo-white.svg
