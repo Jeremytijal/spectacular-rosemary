@@ -1,0 +1,19 @@
+[
+  {
+    "id": "GOUDA_WHEEL",
+    "name": "Gouda Wheel",
+    "price": 299.95,
+    "image": "/images/bouquet-tulip.jpg",
+    "description": "Want to step up your cheese game? Try our mild, yellow Gouda Wheel. This cheese is made in the Netherlands with raw cow milk.",
+    "product_url": "http://snipcart-hugo-forestery.netlify.com"
+  },
+  {
+    "id": "GOUDA_WHEEL",
+    "name": "Gouda Wheel",
+    "price": 299.95,
+    "image": "/images/bouquet-tulip.jpg",
+    "description": "Want to step up your cheese game? Try our mild, yellow Gouda Wheel. This cheese is made in the Netherlands with raw cow milk.",
+    "product_url": "http://snipcart-hugo-forestery.netlify.com"
+  },
+
+]
