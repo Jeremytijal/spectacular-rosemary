@@ -37,7 +37,7 @@
             {{ partial "footer.html" $include_dict }}
         <script src="{{ "js/main.js" | relURL }}"></script>
         <script src="{{ .Site.Params.snipcart_js }}" defer></script>
-        <div hidden id="snipcart" data-api-key="{{ .Site.Params.snipcart_api_key }}">
+        <div hidden id="snipcart" data-api-key="{{ .Site.Params.snipcart_api_key }}" data-currency="eur">
           <cart-header title="Planty">
             <div class="root">
               <header class="snipcart-cart-header" v-if="!loading">
