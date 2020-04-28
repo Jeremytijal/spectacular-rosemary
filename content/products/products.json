@@ -1,0 +1,25 @@
+[
+  {
+    "id": "12",
+    "title": "Gouda Wheel",
+    "price": 299.95,
+    "images": "/images/bouquet-tulip.jpg",
+    "description": "Want to step up your cheese game? Try our mild, yellow Gouda Wheel. This cheese is made in the Netherlands with raw cow milk.",
+    "category": "bouquets",
+    "featured": true,
+    "section": "Store",
+    "layout": "product",
+  },
+  {
+    "id": "12",
+    "title": "Gouda Wheel",
+    "price": 299.95,
+    "images": "/images/bouquet-tulip.jpg",
+    "description": "Want to step up your cheese game? Try our mild, yellow Gouda Wheel. This cheese is made in the Netherlands with raw cow milk.",
+    "category": "bouquets",
+    "featured": true,
+    "section": "Store",
+    "layout": "product",
+  },
+
+]
