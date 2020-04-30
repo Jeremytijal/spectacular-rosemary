@@ -1,9 +1,8 @@
 ---
-id: '5'
+id: "5"
 title: Bouquet Markham
-description: >-
-   Un bouquet haut en couleurs pour rentrer doucement dans le printemps
-price: '39,99'
+description: Un bouquet haut en couleurs pour rentrer doucement dans le printemps
+price: "39.99"
 images:
   default:
     thumbnail:
