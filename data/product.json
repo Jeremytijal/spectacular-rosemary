@@ -1,0 +1,67 @@
+[
+    {
+      "id": "1",
+      "name": "Klingon dictionary",
+      "price": "34.87",
+      "image": "/images/dictionary.jpg",
+      "content": "Fraise",
+      "description": "nIvbogh tlhIngan dictionary qaStaHvIS veng SuvwI'",
+      "url": "http://snipcart-hugo.netlify.com"
+    },
+    {
+      "id": "2",
+      "name": "captain",
+      "price": "39.9",
+      "image": "/images/dictionary.jpg",
+      "description": "nIvbogh tlhIngan dictionary qaStaHvIS veng SuvwI'",
+      "url": "http://snipcart-hugo.netlify.com"
+    },
+    {
+      "id": "3",
+      "name": "malcom",
+      "price": "45.90",
+      "image": "/images/dictionary.jpg",
+      "description": "nIvbogh tlhIngan dictionary qaStaHvIS veng SuvwI'",
+      "url": "http://snipcart-hugo.netlify.com"
+    },
+    {
+      "id": "4",
+      "name": "weeknd",
+      "price": "107.90",
+      "image": "/images/dictionary.jpg",
+      "description": "nIvbogh tlhIngan dictionary qaStaHvIS veng SuvwI'",
+      "url": "http://snipcart-hugo.netlify.com"
+    },
+    {
+      "id": "5",
+      "name": "vers",
+      "price": "34.87",
+      "image": "/images/dictionary.jpg",
+      "description": "nIvbogh tlhIngan dictionary qaStaHvIS veng SuvwI'",
+      "url": "http://snipcart-hugo.netlify.com"
+    },
+    {
+      "id": "6",
+      "name": "Klingon",
+      "price": "34.87",
+      "image": "/images/dictionary.jpg",
+      "description": "nIvbogh tlhIngan dictionary qaStaHvIS veng SuvwI'",
+      "url": "http://snipcart-hugo.netlify.com"
+    },
+    {
+      "id": "7",
+      "name": "gabbane",
+      "price": "34.87",
+      "image": "/images/dictionary.jpg",
+      "description": "nIvbogh tlhIngan dictionary qaStaHvIS veng SuvwI'",
+      "url": "http://snipcart-hugo.netlify.com"
+    },
+    {
+      "id": "8",
+      "name": "laia",
+      "price": "34.87",
+      "image": "/images/dictionary.jpg",
+      "description": "nIvbogh tlhIngan dictionary qaStaHvIS veng SuvwI'",
+      "url": "http://snipcart-hugo.netlify.com"
+    }
+  ]
