@@ -131,6 +131,9 @@ body {
     outline: none; }
   .button__icon {
     padding: 0 0.5em; }
+  .button__icon2 {
+    padding: 0 1px;
+    padding-right: 25px; }
   .button__text {
     padding: 0 0.5em; }
   .button--icon-only {
@@ -835,12 +838,7 @@ body {
         display: flex;
         flex-direction: column; }
         .faq__contact-info-container p {
-          margin-bottom: 25px; }
-        .faq__contact-info-container a {
-          width: 100%;
-          display: flex;
-          justify-content: center;
-          align-items: center; } }
+          margin-bottom: 25px; } }
   .faq__contact-telephone {
     margin-top: auto;
     grid-row: 1;
