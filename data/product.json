@@ -6,7 +6,9 @@
       "image": "/images/dictionary.jpg",
       "content": "Fraise",
       "description": "nIvbogh tlhIngan dictionary qaStaHvIS veng SuvwI'",
-      "url": "http://snipcart-hugo.netlify.com"
+      "url": "http://snipcart-hugo.netlify.com",
+      "stock": 20,
+      "totalStock": 20,
     },
     {
       "id": "2",
@@ -14,7 +16,9 @@
       "price": "39.9",
       "image": "/images/dictionary.jpg",
       "description": "nIvbogh tlhIngan dictionary qaStaHvIS veng SuvwI'",
-      "url": "http://snipcart-hugo.netlify.com"
+      "url": "http://snipcart-hugo.netlify.com",
+      "stock": 30,
+      "totalStock": 30,
     },
     {
       "id": "3",
@@ -22,7 +26,9 @@
       "price": "45.90",
       "image": "/images/dictionary.jpg",
       "description": "nIvbogh tlhIngan dictionary qaStaHvIS veng SuvwI'",
-      "url": "http://snipcart-hugo.netlify.com"
+      "url": "http://snipcart-hugo.netlify.com",
+      "stock": 60,
+      "totalStock": 60,
     },
     {
       "id": "4",
